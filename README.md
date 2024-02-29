@@ -1,4 +1,4 @@
-Ray tracer based off of the Ray Tracer in One Weekend book
+Ray tracer based off of the Ray Tracer in One Weekend book\n
 
 Source:
 
